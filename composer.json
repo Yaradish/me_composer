@@ -1,9 +1,8 @@
 {
-    "name": "yy/yy",
-    "description": "test",
+    "name": "ycg/me_composer",
     "autoload": {
         "psr-4": {
-            "Yy\\Yy\\": "src/"
+            "Ycg\\MeComposer\\": "src/"
         }
     },
     "authors": [

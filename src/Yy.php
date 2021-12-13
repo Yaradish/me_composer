@@ -6,7 +6,7 @@
  * Time: 16:24
  **/
 
-namespace Yy\Yy;
+namespace Ycg\MeComposer;
 
 class Yy
 {

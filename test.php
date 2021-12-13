@@ -6,7 +6,7 @@
  * Time: 16:27
  **/
 require_once __DIR__ . '/vendor/autoload.php';
-use Yy\Yy\Yy;
+use Ycg\MeComposer\Yy;
 
 $obj = new Yy();
 
