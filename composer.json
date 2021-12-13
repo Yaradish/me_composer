@@ -1,0 +1,16 @@
+{
+    "name": "yy/yy",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "Yy\\Yy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yangchenguang",
+            "email": "yangchenguang@hrgame.com.cn"
+        }
+    ],
+    "require": {}
+}
